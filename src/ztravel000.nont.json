@@ -1,0 +1,11 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "SAP Object Node Type ZTRAVEL000",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "name": "ZTravel000",
+  "sapObjectType": "ZTravel000",
+  "rootNode": true
+}
